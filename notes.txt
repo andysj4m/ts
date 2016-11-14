@@ -1,0 +1,4 @@
+npm install -g typescript
+typings install dt~es6-shim --save --global
+
+
