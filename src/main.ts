@@ -12,7 +12,7 @@ Observable.timer(1000)
 
 class App {
     constructor() {
-        console.log(`Working zzz ...`);
+        console.log(`Working 2 ...`);
     }
 }
 
